@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
  * main - printing the size of computer types
- * code by Mulandi
+ * 
  * Return:0
  */
-
 int main(void)
 {
 	char a;
